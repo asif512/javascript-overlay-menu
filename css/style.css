@@ -1,0 +1,159 @@
+body {
+    
+    margin: 0;
+    padding: 0
+    
+}
+h1 {
+    
+    font-size: 70px;
+    color: #333;
+    text-align: center;
+    margin-top: 250px;
+}
+.button {
+    
+    font-size: 50px;
+    position: absolute;
+    top: 6px;
+    right: 50px;
+    z-index: 999;
+    
+}
+.button a {
+    text-decoration: none;
+}
+.btn-open:after {
+    font-family: "FontAwesome";
+    content:"\f0c9";
+    color: #333;
+    transition: color .2s;
+} 
+.btn-open:hover:after {
+    color: #133194;
+}
+.btn-close:after {
+    font-family: "FontAwesome";
+    content:"\f00d";
+    color: #fff;
+    transition: color .2s;
+} 
+.btn-close:hover:after {
+    color: #133194;
+}
+
+#content {
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: #9c9b8f;
+}
+.container {
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+.col {
+    padding: 200px 0px;
+    width: 24%;
+    display: inline-block;
+}
+.col h2 {
+    font-size: 50px;
+    color: #333;
+}
+.col ul {
+    padding: 0;
+    list-style: none;   
+}
+.col ul li a {
+    color: #f0f0f0;
+    font-size: 18px;
+    display: block;
+    padding: 8px 0;
+    text-decoration: none;
+    transition: color .2s;    
+}
+
+.col ul li a:hover { 
+    color: #133194;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
